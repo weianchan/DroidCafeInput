@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\TARUC\\Desktop\\DroidCafeInput\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "C:\\Users\\TARUC\\Documents\\DroidCafeInput\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\TARUC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\33e173908188c1a9f24afde7670e31a3\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\TARUC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\79427d1ec23d44905c1ccc7f1906b6f0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
